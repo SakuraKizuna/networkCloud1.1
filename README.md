@@ -1,5 +1,5 @@
 # networkCloud1.1
-it will be token to user for college
+it will be token to use for college
 
 本系统已获准许，将应用于开发者所属高校的实验室等机构。
 本系统禁止用于商用但可供学习交流。
